@@ -375,7 +375,7 @@ mark,
   font-size: 90%;
   text-transform: uppercase; }
 
-.blockquote {
+blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem; }
 
@@ -11573,10 +11573,6 @@ header h1 {
 .fas {
   width: 30px;
   text-align: center; }
-
-.header-contacts {
-  height: 2em;
-  background-color: #fc5500; }
 
 .jumbotron {
   background: url(/images/jumbotron.jpg) center/cover;
