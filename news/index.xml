@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Новости on Союзспецстрой</title>
-    <link>https://unionscb.github.io/news/</link>
+    <link>https://unionscb.ru/news/</link>
     <description>Recent content in Новости on Союзспецстрой</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://unionscb.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://unionscb.ru/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ремонт зала ДЮЦ</title>
-      <link>https://unionscb.github.io/news/duts/</link>
+      <link>https://unionscb.ru/news/duts/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.github.io/news/duts/</guid>
+      <guid>https://unionscb.ru/news/duts/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Озвучена дата окончания ремонта в зрительном зале Детско-юношеского центра Северодвинска. Напомним, он был опечатан судебными приставами по причине опасности.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
