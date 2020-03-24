@@ -11565,7 +11565,8 @@ readers do not read off random characters that represent icons */
   font-weight: 900; }
 
 body {
-  background-color: #ced4da; }
+  background: #ced4da url(/images/bg.png);
+  background-attachment: fixed; }
 
 header h1 {
   text-shadow: 1px 1px 4px #6c757d; }
