@@ -120,20 +120,20 @@
     </item>
     
     <item>
-      <title>Другой проект</title>
-      <link>https://unionscb.ru/projects/example2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example2/</guid>
-      <description>Вчера мы построили супер-штуку! Смотрите фотки.</description>
-    </item>
-    
-    <item>
       <title>Капитальный ремонт</title>
       <link>https://unionscb.ru/services/overhaul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unionscb.ru/services/overhaul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Капитальный ремонт мягкой кровли</title>
+      <link>https://unionscb.ru/projects/example2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/example2/</guid>
       <description></description>
     </item>
     
@@ -167,6 +167,15 @@
     </item>
     
     <item>
+      <title>Косметический ремонт помещений</title>
+      <link>https://unionscb.ru/projects/example4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/example4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Кровельные работы</title>
       <link>https://unionscb.ru/services/roofing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,11 +206,29 @@
     </item>
     
     <item>
+      <title>Работы по перепланировке (комплексному ремонт) помещений в здании МАДОУ №20 «Дружный хоровод»</title>
+      <link>https://unionscb.ru/projects/example5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/example5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Разработка сметной документации</title>
       <link>https://unionscb.ru/services/documantation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unionscb.ru/services/documantation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ремонт концертного зала в ДЮЦе</title>
+      <link>https://unionscb.ru/projects/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/example/</guid>
       <description></description>
     </item>
     
@@ -221,15 +248,6 @@
       
       <guid>https://unionscb.ru/services/plumbing/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Строительство супер-штуки</title>
-      <link>https://unionscb.ru/projects/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example/</guid>
-      <description>Вчера мы построили супер-штуку! Смотрите фотки.</description>
     </item>
     
     <item>

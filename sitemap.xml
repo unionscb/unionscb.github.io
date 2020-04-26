@@ -85,11 +85,11 @@
   </url>
   
   <url>
-    <loc>https://unionscb.ru/projects/example2/</loc>
+    <loc>https://unionscb.ru/services/overhaul/</loc>
   </url>
   
   <url>
-    <loc>https://unionscb.ru/services/overhaul/</loc>
+    <loc>https://unionscb.ru/projects/example2/</loc>
   </url>
   
   <url>
@@ -102,6 +102,10 @@
   
   <url>
     <loc>https://unionscb.ru/contacts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unionscb.ru/projects/example4/</loc>
   </url>
   
   <url>
@@ -121,7 +125,15 @@
   </url>
   
   <url>
+    <loc>https://unionscb.ru/projects/example5/</loc>
+  </url>
+  
+  <url>
     <loc>https://unionscb.ru/services/documantation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unionscb.ru/projects/example/</loc>
   </url>
   
   <url>
@@ -130,10 +142,6 @@
   
   <url>
     <loc>https://unionscb.ru/services/plumbing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example/</loc>
   </url>
   
   <url>
