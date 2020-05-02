@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>Перепланировка и ремонт помещений в МАДОУ № 86 ЦРР «Жемчужинка»</title>
+      <title>Перепланировка и ремонт помещений в МАДОУ № 86 ЦРР &#34;Жемчужинка&#34;</title>
       <link>https://unionscb.ru/projects/example9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -88,7 +88,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unionscb.ru/projects/example10/</guid>
+<<<<<<< HEAD
       <description>Ремонт фасада выполнялся промышленными альпинистами из компании «СеверАльпСтрой».</description>
+=======
+      <description>Ремонт фасада выполнялся промышленными альпинистами из компании (СеверАльпСтрой)</description>
+>>>>>>> 3af4fd032321acabd67f09be8c56579d470eb960
     </item>
     
     <item>
