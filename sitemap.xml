@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://unionscb.ru/about/main/</loc>
+  </url>
+  
+  <url>
+    <loc>https://unionscb.ru/about/documents/</loc>
+  </url>
+  
+  <url>
     <loc>https://unionscb.ru/news/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
   </url>
@@ -15,6 +23,10 @@
   <url>
     <loc>https://unionscb.ru/</loc>
     <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://unionscb.ru/about/</loc>
   </url>
   
   <url>
@@ -63,10 +75,6 @@
   
   <url>
     <loc>https://unionscb.ru/services/metal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/about/</loc>
   </url>
   
   <url>

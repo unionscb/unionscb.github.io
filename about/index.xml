@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Союзспецстрой</title>
+    <link>https://unionscb.ru/about/</link>
+    <description>Recent content on Союзспецстрой</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	<atom:link href="https://unionscb.ru/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>О компании</title>
+      <link>https://unionscb.ru/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/about/main/</guid>
+      <description>Компания ООО «Союзспецстрой» основана в 25 сентября 2009 г. и на данный момент является молодой динамично развивающейся ремонтно-строительной компанией в городе Северодвинск.
+Система выполнения работ построена по принципу максимальной концентрации на задачах Заказчика, с возможностью оперативной разработки технологических решений и мобилизации ресурсов для выполнения контракта качественно и в установленный срок.
+Компания ООО «Союзспецстрой» предлагает широкий спектр услуг, включая непосредственно строительство, а также реконструкцию сооружений различного типа и ремонт помещений любой сложности и назначения.</description>
+    </item>
+    
+    <item>
+      <title>Документы</title>
+      <link>https://unionscb.ru/about/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/about/documents/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
