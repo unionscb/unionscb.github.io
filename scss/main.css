@@ -11568,6 +11568,9 @@ body {
   background: #ced4da url(/images/bg.png);
   background-attachment: fixed; }
 
+.contacts-top a {
+  color: white; }
+
 header h1 {
   text-shadow: 1px 1px 4px #6c757d; }
 
