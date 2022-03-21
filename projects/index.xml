@@ -5,107 +5,103 @@
     <link>https://unionscb.ru/projects/</link>
     <description>Recent content in Галерея on Союзспецстрой</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    
-	<atom:link href="https://unionscb.ru/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ru</language><atom:link href="https://unionscb.ru/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Капитальный ремонт мягкой кровли</title>
-      <link>https://unionscb.ru/projects/example2/</link>
+      <title>ГБУЗ Архангельской области СГБ № 1</title>
+      <link>https://unionscb.ru/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example2/</guid>
+      <guid>https://unionscb.ru/projects/project1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Капитальный ремонт фасада</title>
-      <link>https://unionscb.ru/projects/example3/</link>
+      <title>МАДОУ № 20 Дружный Хоровод (2019) Перепланировка помещений</title>
+      <link>https://unionscb.ru/projects/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example3/</guid>
+      <guid>https://unionscb.ru/projects/project2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Косметический ремонт помещений</title>
-      <link>https://unionscb.ru/projects/example4/</link>
+      <title>МАДОУ № 20 Дружный Хоровод (2021) Ремонт санузлов и пищеблока</title>
+      <link>https://unionscb.ru/projects/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example4/</guid>
+      <guid>https://unionscb.ru/projects/project3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Перепланировка и ремонт помещений в МАДОУ № 86 ЦРР «Жемчужинка»</title>
-      <link>https://unionscb.ru/projects/example9/</link>
+      <title>МАОУ СОШ № 12</title>
+      <link>https://unionscb.ru/projects/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example9/</guid>
+      <guid>https://unionscb.ru/projects/project4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Работы по перепланировке МАДОУ №20 «Дружный хоровод»</title>
-      <link>https://unionscb.ru/projects/example5/</link>
+      <title>МАОУ СОШ № 36 (Точка роста)</title>
+      <link>https://unionscb.ru/projects/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example5/</guid>
+      <guid>https://unionscb.ru/projects/project5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Реконструкция бытовки компрессорной</title>
-      <link>https://unionscb.ru/projects/example11/</link>
+      <title>МАУ Молодежный центр (Ремонт коридора 2 - ого этажа 2021 год)</title>
+      <link>https://unionscb.ru/projects/project6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example11/</guid>
+      <guid>https://unionscb.ru/projects/project6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ремонт концертного зала в ДЮЦе</title>
-      <link>https://unionscb.ru/projects/example/</link>
+      <title>МАУ Молодежный центр (Ремонт помещения для компьютерного клуба)</title>
+      <link>https://unionscb.ru/projects/project7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example/</guid>
+      <guid>https://unionscb.ru/projects/project7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ремонт спортзала</title>
-      <link>https://unionscb.ru/projects/example6/</link>
+      <title>МАУ Молодежный центр (Фасад 2021 год)</title>
+      <link>https://unionscb.ru/projects/project8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example6/</guid>
+      <guid>https://unionscb.ru/projects/project8/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ремонт спортзала «Строитель»</title>
-      <link>https://unionscb.ru/projects/example7/</link>
+      <title>МУП Локомотив (Реконструкция бытовки компрессорной)</title>
+      <link>https://unionscb.ru/projects/project9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example7/</guid>
+      <guid>https://unionscb.ru/projects/project9/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ремонт фасада в МБДОУ № 66 «Беломорочка»</title>
-      <link>https://unionscb.ru/projects/example10/</link>
+      <title>ФГБУЗ ЦМСЧ № 58 (2021) Отделение реабилитации</title>
+      <link>https://unionscb.ru/projects/project10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example10/</guid>
-      <description>Ремонт фасада выполнялся промышленными альпинистами из компании «СеверАльпСтрой».</description>
+      <guid>https://unionscb.ru/projects/project10/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Филиал Международного Института управления в Северодвинске</title>
-      <link>https://unionscb.ru/projects/example8/</link>
+      <title>ФГБУЗ ЦМСЧ № 58 (2021) Ремонт перехода 1-ого этажа</title>
+      <link>https://unionscb.ru/projects/project11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example8/</guid>
+      <guid>https://unionscb.ru/projects/project11/</guid>
       <description></description>
     </item>
     

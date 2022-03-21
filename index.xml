@@ -5,12 +5,7 @@
     <link>https://unionscb.ru/</link>
     <description>Recent content on Союзспецстрой</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://unionscb.ru/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ru</language><atom:link href="https://unionscb.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О компании</title>
       <link>https://unionscb.ru/about/main/</link>
@@ -32,12 +27,12 @@
     </item>
     
     <item>
-      <title>Ремонт зала ДЮЦ</title>
-      <link>https://unionscb.ru/news/duts/</link>
-      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <title>ГБУЗ Архангельской области СГБ № 1</title>
+      <link>https://unionscb.ru/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/news/duts/</guid>
-      <description>&lt;p&gt;Озвучена дата окончания ремонта в зрительном зале Детско-юношеского центра Северодвинска. Напомним, он был опечатан судебными приставами по причине опасности.&lt;/p&gt;</description>
+      <guid>https://unionscb.ru/projects/project1/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -47,24 +42,6 @@
       
       <guid>https://unionscb.ru/services/overhaul/</guid>
       <description>Капитальный ремонт подразумевает комплекс мероприятий, связанных с ремонтными и отделочными работами, в ходе которых также производится установка или замена отдельных конструктивных элементов, а также инженерных систем и оборудования на новые.</description>
-    </item>
-    
-    <item>
-      <title>Капитальный ремонт мягкой кровли</title>
-      <link>https://unionscb.ru/projects/example2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Капитальный ремонт фасада</title>
-      <link>https://unionscb.ru/projects/example3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example3/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -88,15 +65,6 @@
     </item>
     
     <item>
-      <title>Косметический ремонт помещений</title>
-      <link>https://unionscb.ru/projects/example4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Кровельные работы</title>
       <link>https://unionscb.ru/services/roofing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,6 +72,78 @@
       <guid>https://unionscb.ru/services/roofing/</guid>
       <description>Один из наиболее ответственных этапов в процессе возведения дома &amp;ndash; обустройство крыши. От качества монтажа зависит надежность защиты сооружения от неблагоприятных атмосферных явлений и то, насколько удобно в нем будет жить людям. Именно поэтому кровельные работы при строительстве каждого дома должны быть выполнены грамотно и профессионально.
  Ремонт мягкой кровли Ремонт кровли из профнастила Ремонт кровли из асбестоцементного шифера  </description>
+    </item>
+    
+    <item>
+      <title>МАДОУ № 20 Дружный Хоровод (2019) Перепланировка помещений</title>
+      <link>https://unionscb.ru/projects/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАДОУ № 20 Дружный Хоровод (2021) Ремонт санузлов и пищеблока</title>
+      <link>https://unionscb.ru/projects/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАОУ СОШ № 12</title>
+      <link>https://unionscb.ru/projects/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАОУ СОШ № 36 (Точка роста)</title>
+      <link>https://unionscb.ru/projects/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАУ Молодежный центр (Ремонт коридора 2 - ого этажа 2021 год)</title>
+      <link>https://unionscb.ru/projects/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАУ Молодежный центр (Ремонт помещения для компьютерного клуба)</title>
+      <link>https://unionscb.ru/projects/project7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МАУ Молодежный центр (Фасад 2021 год)</title>
+      <link>https://unionscb.ru/projects/project8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>МУП Локомотив (Реконструкция бытовки компрессорной)</title>
+      <link>https://unionscb.ru/projects/project9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project9/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -116,48 +156,12 @@
     </item>
     
     <item>
-      <title>Перепланировка и ремонт помещений в МАДОУ № 86 ЦРР «Жемчужинка»</title>
-      <link>https://unionscb.ru/projects/example9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Работы по перепланировке МАДОУ №20 «Дружный хоровод»</title>
-      <link>https://unionscb.ru/projects/example5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Разработка сметной документации</title>
       <link>https://unionscb.ru/services/documantation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unionscb.ru/services/documantation/</guid>
       <description>Мы разработаем для Вас сметную документацию в программном комплексе «ГРАНД-Смета».</description>
-    </item>
-    
-    <item>
-      <title>Реконструкция бытовки компрессорной</title>
-      <link>https://unionscb.ru/projects/example11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ремонт концертного зала в ДЮЦе</title>
-      <link>https://unionscb.ru/projects/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -171,33 +175,6 @@
     </item>
     
     <item>
-      <title>Ремонт спортзала</title>
-      <link>https://unionscb.ru/projects/example6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ремонт спортзала «Строитель»</title>
-      <link>https://unionscb.ru/projects/example7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ремонт фасада в МБДОУ № 66 «Беломорочка»</title>
-      <link>https://unionscb.ru/projects/example10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unionscb.ru/projects/example10/</guid>
-      <description>Ремонт фасада выполнялся промышленными альпинистами из компании «СеверАльпСтрой».</description>
-    </item>
-    
-    <item>
       <title>Сантехнические работы</title>
       <link>https://unionscb.ru/services/plumbing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -208,11 +185,20 @@
     </item>
     
     <item>
-      <title>Филиал Международного Института управления в Северодвинске</title>
-      <link>https://unionscb.ru/projects/example8/</link>
+      <title>ФГБУЗ ЦМСЧ № 58 (2021) Отделение реабилитации</title>
+      <link>https://unionscb.ru/projects/project10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://unionscb.ru/projects/example8/</guid>
+      <guid>https://unionscb.ru/projects/project10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ФГБУЗ ЦМСЧ № 58 (2021) Ремонт перехода 1-ого этажа</title>
+      <link>https://unionscb.ru/projects/project11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unionscb.ru/projects/project11/</guid>
       <description></description>
     </item>
     

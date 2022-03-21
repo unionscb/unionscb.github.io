@@ -1,128 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://unionscb.ru/about/main/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/about/documents/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/news/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/news/duts/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project1/</loc>
+  </url><url>
     <loc>https://unionscb.ru/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/overhaul/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/comprehensive/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/contacts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example4/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/roofing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project2/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project3/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project4/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project5/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project6/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project7/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project8/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project9/</loc>
+  </url><url>
     <loc>https://unionscb.ru/services/metal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example9/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example5/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/documantation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example11/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/seams/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example7/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example10/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://unionscb.ru/services/plumbing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://unionscb.ru/projects/example8/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://unionscb.ru/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project10/</loc>
+  </url><url>
+    <loc>https://unionscb.ru/projects/project11/</loc>
+  </url><url>
     <loc>https://unionscb.ru/services/electric/</loc>
   </url>
-  
 </urlset>

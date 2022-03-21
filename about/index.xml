@@ -5,11 +5,7 @@
     <link>https://unionscb.ru/about/</link>
     <description>Recent content on Союзспецстрой</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    
-	<atom:link href="https://unionscb.ru/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ru</language><atom:link href="https://unionscb.ru/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>О компании</title>
       <link>https://unionscb.ru/about/main/</link>
